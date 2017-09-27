@@ -1,0 +1,19 @@
+#app{
+  margin:auto;
+  width:768px;
+  top: 50%;
+}
+#searchIcon{
+  width:64px;
+  height:64px;
+  background-image: url("./imgs/search.png")
+}
+#searchTerm{
+  width:300px;
+  height: 50px;
+}
+#searchForm{
+  margin:auto;
+  top:50%;
+  width: 432px;
+}
